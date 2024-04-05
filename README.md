@@ -5,6 +5,7 @@ I want to thank all of those who are engaging in providing free advertising, eve
 @wildcatstudios I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects. It's sad that I have to say this but I'm disabled from being ran over in 2017 and have doctors appointments a lot each month so if I fork your repo and don't have time to publish any updates, I hope that everyone understands it's not intentional. I know some authors on here get really badly upset if you do anything with public code on this platform and it's not my intention to make anyone cry.
 [![BuyMeACoffee](/1.png)](https://www.buymeacoffee.com/wildcatstudio)
 
+## Disclaimer of Sorts
 If you find anything I have useful, feel free to use it. I made it public for that reason and forked a lot of code that I thought was awesome to help increase it's visability and help maintain it, I'm not gonna cry if you use any of my public repositories under my account, contributions both in public or private, anything I've helped you with in public or private without needing to ask my permission, I promise you I'm not gonna cry about it. I have my private code set private that I'm working on for others, clients or generally don't want out for the public.
 
 ## 🌐 Socials:
